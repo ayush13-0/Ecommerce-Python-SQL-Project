@@ -1,6 +1,6 @@
 # 📦 E-Commerce Database Analysis Using SQL & Python
 This project performs data analysis on an E-commerce database using MySQL, Python, and Pandas.
-A Jupyter Notebook (05105c4d-5fd1-4bda-8f5a-403f490c5429.ipynb) is used to execute SQL queries directly from Python and analyze the results.
+A Jupyter Notebook (Ecommerce Python+SQL Project) is used to execute SQL queries directly from Python and analyze the results.
 
 🎯 Project Objectives
 Connect Python to a MySQL E-commerce database
@@ -18,7 +18,7 @@ Visualize insights using Matplotlib & Seaborn
  - matplotlib
  - seaborn
  - numpy
- - 
+
 Database:
 MySQL (Localhost)
 
