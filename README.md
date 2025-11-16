@@ -9,10 +9,10 @@ Analyze customers, orders, sales, and product category performance
 Visualize insights using Matplotlib & Seaborn
 
 🧰 Tech Stack
-- Languages:
+Languages:
  - Python
  - SQL
-- Libraries Used:
+Libraries Used:
  - mysql-connector-python
  - pandas
  - matplotlib
