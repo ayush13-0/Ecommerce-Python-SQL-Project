@@ -84,43 +84,6 @@ Examples:
 ✔ Seller performance
 ✔ Payment type distribution
 
-📁 Project Structure:
-ecommerce_sql_python_project/
-│
-├── data/
-│   ├── raw/
-│   │   ├── customers.xlsx
-│   │   ├── geolocation.xlsx
-│   │   ├── order_items.xlsx
-│   │   ├── orders.xlsx
-│   │   ├── payments.xlsx
-│   │   ├── products.xlsx
-│   │   ├── sellers.xlsx
-│   │   ├── Ecommerce Database.sql        ← original SQL DB file
-│   │
-│   ├── processed/
-│       ├── merged_data.csv              ← optional (if you combine tables)
-│       ├── analysis_outputs.csv         ← query results saved
-│
-├── notebooks/
-│   ├── Ecommerce Python+SQL Project.ipynb
-│
-├── src/
-│   ├── __init__.py
-│   ├── db_connection.py                 ← MySQL connection script
-│   ├── sql_queries.py                   ← all SQL queries reused in notebook
-│   ├── data_loader.py                   ← loading Excel files into DataFrames
-│   ├── visualization.py                 ← charts (matplotlib/seaborn)
-│
-├── reports/
-│   ├── ecommerce_analysis_report.pdf    ← export (optional)
-│   ├── insights_summary.md              ← optional summary
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-
 # ▶️ How to Run the Project
 1️⃣ Install dependencies
 - pip install -r requirements.txt
